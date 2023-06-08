@@ -1,6 +1,6 @@
 # Data visualization using Plotly express in Python (demo)
 
-Made a silly little demo to visualize the LEGO dataset with a few research questions in mind: 
+Made a little demo to visualize the LEGO dataset with a few research questions in mind: 
 
   1. Is there any pattern in the number of parts per set over the years?
   
@@ -15,7 +15,5 @@ If I ever revisit this or polish it up, I'd:
   * Update the dataset.
   
   * Refactor the code into helpers and generally just optimize it a little (hopefully!)
-  
-  * Remove the hard-coding :(
   
 
